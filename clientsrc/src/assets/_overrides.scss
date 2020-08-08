@@ -1,0 +1,17 @@
+.btn-primary{
+  color: $light;
+}
+
+.listWrapper {
+  height: 100%;
+  width: 272px;
+  display: inline-block;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+.listScroll {
+  width: auto;
+  white-space: nowrap;
+  overflow-x: auto;
+}
